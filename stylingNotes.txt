@@ -1,0 +1,3 @@
+Code styleguide for shopView
+
+"" used for imports/require, ' elsewhere unless ` needed
