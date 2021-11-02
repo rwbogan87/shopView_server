@@ -1,0 +1,19 @@
+Code styleguide for shopView
+
+"" used for imports/require, ' elsewhere unless ` needed
+
+not sure about using:
+API structure:
+category: ""
+description: ""
+id: #
+image: "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg"
+price: #
+rating: {rate: , count: }
+title: ""0
+
+API categories:
+0: "electronics"
+1: "jewelery"
+2: "men's clothing"
+3: "women's clothing"
